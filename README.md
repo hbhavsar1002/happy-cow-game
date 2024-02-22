@@ -1,7 +1,7 @@
 # Happy Cow Puzzle
 
 ## Introduction
-The puzzle for this semester is "Happy Cows Farm", a piece placement game. The objective of the game is to place several cows in a field in a way that maximizes a score. 
+The puzzle for this semester is "Happy Cows Farm", a piece placement game. The objective of the game is to place in a field in a way that maximizes a score. Multiple algorithms are used to achieve the maximum score.
 
 ### The Farm
 The farm is a square grid board where every cell location is either grass,  a haystack, or a water pond. Help Clayton the happy farmer place his cows 🐮 in the field while observing the following rules and preferences:
